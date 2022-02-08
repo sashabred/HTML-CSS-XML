@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<resume>
+	<candidate id = 1>
+		<Name>Андрей</Name>
+		<LastName>Рябов</LastName>
+		<Surname>Александрович</Surname>
+		<Age>28</Age>
+		<JobAddress>ИПК "БКЦ"</JobAddress>
+		<JobPosition>инженер</JobPositiont>
+		<DateOfBirth>05.03.1993</DateOfBirth>
+		<Education>Высшее</Education>
+		<Address>Улан-Удэ, ул.Геологическая, д.22, кв.1</Address>
+		<Phone>45-57-80</Phone>
+		<FamilyStatus>не женат</FamilyStatus>
+		<DesiredSalary currency = "RUB">70000</DesiredSalary>
+	</candidate>
+    <candidate id = 2>
+		<Name>Сергей</Name>
+		<LastName>Никитюк</LastName>
+		<Surname>Петрович</Surname>
+		<Age>32</Age>
+		<JobAddress>ООО "СТК"</JobAddress>
+		<JobPosition>менеджер</JobPositiont>
+		<DateOfBirth>28.06.1989</DateOfBirth>
+		<Education>Высшее</Education>
+		<Address>Москва, ул.Чкаловская, д.8</Address>
+		<Phone>961-5623</Phone>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary currency = "RUB">150000</DesiredSalary>
+	</candidate>
+     <candidate id = 2>
+		<Name>Анна</Name>
+		<LastName>Иванова</LastName>
+		<Surname>Алексеевна</Surname>
+		<Age>19</Age>
+		<JobAddress>ООО "БИКС+"</JobAddress>
+		<JobPosition>специалист</JobPositiont>
+		<DateOfBirth>13.01.2003</DateOfBirth>
+		<Education>Среднее</Education>
+		<Address>Томск, ул.Ленина, д.78</Address>
+		<Phone>123-45-78</Phone>
+		<FamilyStatus>замужем</FamilyStatus>
+		<DesiredSalary currency = "EUR">500</DesiredSalary>
+	</candidate>
+	
+	
+</resume>
+

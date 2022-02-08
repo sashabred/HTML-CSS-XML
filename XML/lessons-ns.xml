@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+
+<Schedule xmlns:sch="http://www.itmo.ru/xml/lessons"
+             xmlns:htm="http://www.itmo.ru/xml/lessons:html-css"
+                xmlns:prgrm = "http://www.itmo.ru/xml/lessons:programm">
+
+<htm:Lesson id ="1">
+    <htm:LessonName>HTML/CSS</htm:LessonName>
+    <htm:TeacherFIO>Mary Gradsky</htm:TeacherFIO>
+    <htm:DateIn>09.02.2022</htm:DateIn>
+    <htm:DateOut>01.03.2022</htm:DateOut>
+    <htm:Time>08:30:00</htm:Time>
+    <htm:StudentGroupId>236</htm:StudentGroupId>
+</htm:Lesson>
+
+<prgrm:Lesson id ="2">
+    <prgrm:LessonName>Programming course. Intro</prgrm:LessonName>
+    <prgrm:TeacherFIO>Henry Kravitz</prgrm:TeacherFIO>
+    <prgrm:DateIn>11.06.2022</prgrm:DateIn>
+    <prgrm:DateOut>21.06.2022</prgrm:DateOut>
+    <prgrm:Time>13:45:00</prgrm:Time>
+    <prgrm:StudentGroupId>1152</prgrm:StudentGroupId>
+    </prgrm:Lesson>
+
+</Schedule>

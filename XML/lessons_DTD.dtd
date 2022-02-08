@@ -1,0 +1,8 @@
+  <!ELEMENT Schedule (Lesson+)>
+		  <!ELEMENT Lesson     (LessonName, TeacherFIO, DateIn, DateOut,Time,StudentGroupId)>
+		  <!ELEMENT LessonName   (#PCDATA)>
+		  <!ELEMENT TeacherFIO (#PCDATA)>
+		  <!ELEMENT DateIn (#PCDATA)>
+          <!ELEMENT DateOut (#PCDATA)>
+          <!ELEMENT Time (#PCDATA)>
+          <!ELEMENT StudentGroupId(#PCDATA)>

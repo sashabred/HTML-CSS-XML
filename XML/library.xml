@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE TimeTable SYSTEM "library_DTD.dtd">
+<library>
+    <book_catalog>
+        <book id="251" year="1965" issue="translation">
+            <authors>
+                <author>Frank Herbert</author>
+            </authors>
+            <title>Dune</title>
+            <publishing>Chilton Books</publishing>
+            <annotation>It is the first installment of the Dune saga.</annotation>
+        </book>
+            <book id="381" year="1599" isbn="" issue="translation">
+            <authors>
+                <author>Shakespeare</author>
+            </authors>
+            <title>Hamlet</title>
+            <publishing>Chilton Books</publishing>
+            <annotation>Dramas as singular in theme</annotation>
+        </book>
+    </book_catalog>
+    <author_catalog> 
+        <author_book idref="#3537">Den Harmon</author_book> 
+    </author_catalog>       
+
+
+</library>

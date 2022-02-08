@@ -1,0 +1,14 @@
+﻿<xs:element name ="Schedule">
+    <xs:complexType>        
+           <xs:extension base ="Lesson">                
+                <xs:sequence>             
+                    <xs: element name ="LessonName" type="xs:string"/>
+                    <xs: element name ="TeacherFIO" type="xs:string"/>
+                    <xs: element name ="DateIn" type="xs:string"/>
+                    <xs: element name ="DateOut" type="xs:string"/>
+                    <xs: element name ="Time" type="xs:string"/>
+                    <xs: element name ="StudentGroupId" type="xs:integer"/>
+                </xs:sequence>
+            </xs:extension>
+    </xs:complexType>
+</xs:element>

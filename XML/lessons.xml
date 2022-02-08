@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Schedule SYSTEM "lessons_DTD.dtd">
+<Schedule>
+    <Lesson id="1">
+        <LessonName>HTML/CSS</LessonName>
+        <TeacherFIO>Mary Gradsky</TeacherFIO>
+        <DateIn> 2022-02-09</DateIn>
+        <DateOut>2022-02-09</DateOut>
+        <Time>08:30:00</Time>
+        <StudentGroupId>236</StudentGroupId>
+    </Lesson>
+    <Lesson id="2">
+        <LessonName>Programming course. Intro</LessonName>
+        <TeacherFIO>Henry Kravitz</TeacherFIO>
+        <DateIn>11.06.2022</DateIn>
+        <DateOut>21.06.2022</DateOut>
+        <Time>13:45:00</Time>
+        <StudentGroupId>1152</StudentGroupId>
+    </Lesson>    
+</Schedule>
